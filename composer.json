@@ -3,7 +3,7 @@
     "type": "tkotosz-fooapp-extension",
     "license": "MIT",
     "require": {
-        "tkotosz/fooapp-src": "*"
+        "tkotosz/fooapp": "^0.1"
     },
     "autoload": {
         "psr-4": {
